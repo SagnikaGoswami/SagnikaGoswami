@@ -8,7 +8,7 @@ Tech Stack
 - React, Node.js MongoDB, Express.js, OpenAI API
 
 Portfolio
-- Live Project: [Live Demo](https://prepinterview-ai-client.onrender.com/)
+- Live Projects: [PrepInterview.AI](https://prepinterview-ai-client.onrender.com/)
 - LinkedIn: [Sagnika Goswami](https://www.linkedin.com/in/sagnikag/)
 
 <!---
