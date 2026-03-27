@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @SagnikaGoswami
-- 👀 I’m interested in coding and solving real-world problems
-- 🌱 I’m currently learning MERN stack development
-- 😄 Pronouns: She
+- Hi, I’m Sagnika👋
+- Full Stack Developer | MERN AI Projects
+
+Projects
+- PrepInterview.AI (AI Mock Interview Platform)
+
+Tech Stack
+- React, Node.js MongoDB, Express.js, OpenAI API
+
+Portfolio
+- Live Project: [Live Demo](https://prepinterview-ai-client.onrender.com/)
+- LinkedIn: [Sagnika Goswami](https://www.linkedin.com/in/sagnikag/)
 
 <!---
 SagnikaGoswami/SagnikaGoswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
