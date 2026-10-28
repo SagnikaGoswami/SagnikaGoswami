@@ -12,13 +12,11 @@ building backend APIs and integrating AI/LLM capabilities into applications.
 
 ## 🚀 About Me
 
-- 💻 Interested in **Full-Stack Development, Backend Engineering & AI**
-- 🌐 Building applications with **React, Node.js, Express.js and MongoDB**
-- ⚡ Exploring **WebSockets, REST APIs and real-time applications**
-- 🤖 Learning **Generative AI, LLM integration and AI Engineering**
-- 🐍 Working with **Python, Data Science and Machine Learning**
-- ✍️ Experienced in **technical, SEO and research-based content writing**
-- 📚 Currently focused on strengthening my development skills through hands-on projects
+- 💻 Building **full-stack web applications** with React, Node.js, Express.js, and MongoDB.
+- 🤖 Exploring **Generative AI, LLM integrations, and AI-powered applications**.
+- 🐍 Currently learning **Machine Learning and Data Science** using Python.
+- ✍️ Also a **Content Writer** with experience in technical, SEO, and research-based writing.
+- 🚀 Learning, experimenting, and turning ideas into practical projects.
 
 ---
 
@@ -29,8 +27,6 @@ building backend APIs and integrating AI/LLM capabilities into applications.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -49,7 +45,6 @@ building backend APIs and integrating AI/LLM capabilities into applications.
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -63,28 +58,9 @@ AI-generated feedback, speech-to-text, text-to-speech and interview analytics.
 
 ---
 
-### ⚡ WebSocket Chat
-A basic terminal-based real-time communication application demonstrating
-WebSocket connections, message handling and broadcasting between multiple clients.
-
-**Tech:** Node.js, WebSockets
-
----
-
-### 🎨 Elementum
-A responsive creative studio website built with React, featuring modern UI,
-responsive layouts and smooth animations.
-
-**Tech:** React, JavaScript, Framer Motion, Docker
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Backend Development
-- WebSockets & Real-Time Applications
-- Generative AI & LLM Integration
-- AI Engineering
 - Data Science & Machine Learning
 - System Design fundamentals
 
@@ -95,7 +71,6 @@ responsive layouts and smooth animations.
 Alongside development, I have professional experience in:
 
 - Technical and SEO blog writing
-- Research-based content
 - Academic writing and research
 - Technical documentation
 
