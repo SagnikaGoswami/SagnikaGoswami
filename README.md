@@ -48,16 +48,6 @@ building backend APIs and integrating AI/LLM capabilities into applications.
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 PrepInterview.AI
-AI-powered mock interview platform with role-specific interview questions,
-AI-generated feedback, speech-to-text, text-to-speech and interview analytics.
-
-**Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, OpenRouter, Firebase
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Backend Development
